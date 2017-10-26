@@ -1,2 +1,3 @@
 # hello-world
-First Repository
+
+Hello, this is my introductory session of Git Hub. Setting up per the instructions.
